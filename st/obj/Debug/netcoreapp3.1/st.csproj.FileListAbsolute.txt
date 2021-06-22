@@ -1,0 +1,12 @@
+/Users/edrodriguez/projects/st/st/bin/Debug/netcoreapp3.1/st.deps.json
+/Users/edrodriguez/projects/st/st/bin/Debug/netcoreapp3.1/st.runtimeconfig.json
+/Users/edrodriguez/projects/st/st/bin/Debug/netcoreapp3.1/st.runtimeconfig.dev.json
+/Users/edrodriguez/projects/st/st/bin/Debug/netcoreapp3.1/st.dll
+/Users/edrodriguez/projects/st/st/bin/Debug/netcoreapp3.1/st.pdb
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.csprojAssemblyReference.cache
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.AssemblyInfoInputs.cache
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.AssemblyInfo.cs
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.csproj.CoreCompileInputs.cache
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.dll
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.pdb
+/Users/edrodriguez/projects/st/st/obj/Debug/netcoreapp3.1/st.genruntimeconfig.cache

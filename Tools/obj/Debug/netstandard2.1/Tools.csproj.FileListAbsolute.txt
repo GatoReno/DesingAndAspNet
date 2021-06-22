@@ -1,0 +1,9 @@
+/Users/edrodriguez/projects/st/Tools/bin/Debug/netstandard2.1/Tools.deps.json
+/Users/edrodriguez/projects/st/Tools/bin/Debug/netstandard2.1/Tools.dll
+/Users/edrodriguez/projects/st/Tools/bin/Debug/netstandard2.1/Tools.pdb
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.csprojAssemblyReference.cache
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.AssemblyInfoInputs.cache
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.AssemblyInfo.cs
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.csproj.CoreCompileInputs.cache
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.dll
+/Users/edrodriguez/projects/st/Tools/obj/Debug/netstandard2.1/Tools.pdb

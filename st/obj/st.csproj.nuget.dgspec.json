@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edrodriguez/projects/st/st/st.csproj": {}
+  },
+  "projects": {
+    "/Users/edrodriguez/projects/st/st/st.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edrodriguez/projects/st/st/st.csproj",
+        "projectName": "st",
+        "projectPath": "/Users/edrodriguez/projects/st/st/st.csproj",
+        "packagesPath": "/Users/edrodriguez/.nuget/packages/",
+        "outputPath": "/Users/edrodriguez/projects/st/st/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edrodriguez/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/Users/edrodriguez/localpkgcharter": {},
+          "https://artifactory.spectrumtoolbox.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

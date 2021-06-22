@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Tools >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/edrodriguez/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/edrodriguez/projects/st/DesignPatternAsp/DesignPatternAsp.csproj",
+      "projectName": "DesignPatternAsp",
+      "projectPath": "/Users/edrodriguez/projects/st/DesignPatternAsp/DesignPatternAsp.csproj",
+      "packagesPath": "/Users/edrodriguez/.nuget/packages/",
+      "outputPath": "/Users/edrodriguez/projects/st/DesignPatternAsp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/edrodriguez/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "/Users/edrodriguez/localpkgcharter": {},
+        "https://artifactory.spectrumtoolbox.com/artifactory/api/nuget/nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/edrodriguez/projects/st/Tools/Tools.csproj": {
+              "projectPath": "/Users/edrodriguez/projects/st/Tools/Tools.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
